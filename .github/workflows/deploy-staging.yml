@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: SaiChen22-azure-ttt
+  DOCKER_IMAGE_NAME: SaiChen-azure-ttt
   AZURE_WEBAPP_NAME: SaiChen22-ttt-app
   ###############################################
 
